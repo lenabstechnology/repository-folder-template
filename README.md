@@ -1,4 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]
+[![Stars][stars-shield]][stars-url] [![Forks][forks-shield]][forks-url] [![Contributors][contributors-shield]][contributors-url] [![Issues][issues-shield]][issues-url] [![License][license-shield]][license-url]
 # Project Title
 
 One Paragraph of the project description
