@@ -1,0 +1,10 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="Dependencies.AspNetCore.props" />
+  
+  <ItemGroup>
+    <PackageManagement Include="Autofac" Version="6.3.0" />
+    <PackageManagement Include="AutoMapper" Version="11.0.1" />
+    <PackageManagement Include="JetBrains.Annotations" Version="2020.1.0" />
+    <PackageManagement Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+</Project>
