@@ -49,8 +49,7 @@ The following XML is the basic snippet template.
     * *%USERPROFILE%\Documents\Visual Studio %VERSION%\Code Snippets\Visual Basic\My Code Snippets*
 
 > Note that, you should replace **"*%USERPROFILE%*"** and **"*%VERSION%*"** values in path with yours.
->
-> eg. *JEPOZDEMIR\Documents\Visual Studio 2022\Templates\ItemTemplates*
+> eg. *JEPOZDEMIR\Documents\Visual Studio 2022\Templates\Code Snippets\Visual C#\My Code Snippets*
 
 
 ## Test your snippet
