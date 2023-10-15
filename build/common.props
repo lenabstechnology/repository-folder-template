@@ -14,7 +14,7 @@
     <Product>Product Name</Product>
 	<Description></Description>
     <Tags></Tags>
-    <Copyright>Copyright © 2022 Company | All Rights Reserved.</Copyright>
+    <Copyright>Copyright © 2023 Company | All Rights Reserved.</Copyright>
     <DebugType>portable</DebugType>
     <Platforms>AnyCPU;x64</Platforms>
     <NetStandardImplicitPackageVersion>2.0.0-*</NetStandardImplicitPackageVersion>
