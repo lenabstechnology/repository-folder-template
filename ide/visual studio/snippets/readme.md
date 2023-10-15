@@ -1,6 +1,6 @@
 # Visual Studio Code Snippets
 
-Code snippets are small blocks of reusable code that you can add to a code file by using the right-click context menu command or a combination of hotkeys. Micrososft Official Documentation [here](https://learn.microsoft.com/en-us/visualstudio/ide/code-snippets?view=vs-2022)
+Code snippets are small blocks of reusable code that you can add to a code file by using the right-click context menu command or a combination of hotkeys. Microsoft official documentation [here](https://learn.microsoft.com/en-us/visualstudio/ide/code-snippets?view=vs-2022)
 
 ## Create a code snippet
 
@@ -11,6 +11,7 @@ Code snippets are small blocks of reusable code that you can add to a code file 
 5. Fill in the language of the snippet in the **Language** attribute of the **Code** element. For C#, use **CSharp**, for Visual Basic, use **VB**, and for C++, use **CPP**.
 6. Add the snippet code in the **CDATA** section inside the **Code** element.
 7. Save the snippet as **MySnippet.snippet** (you can save it anywhere).
+
 
 ## Snippet Template
 
@@ -49,6 +50,7 @@ The following XML is the basic snippet template.
 
     > Note that, you should replace **"*%USERPROFILE%*"** and **"*%VERSION%*"** values in path with yours.
     > eg. *JEPOZDEMIR\Documents\Visual Studio 2022\Templates\ItemTemplates*
+
 
 ## Test your snippet
 
