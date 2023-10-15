@@ -44,11 +44,11 @@ The following XML is the basic snippet template.
 
 5. The snippet is copied to one of the following locations, depending on the code language and the version of Visual Studio that you're using:
 
-    *%USERPROFILE%\Documents\Visual Studio %VERSION%\Code Snippets\Visual C#\My Code Snippets*
-    *%USERPROFILE%\Documents\Visual Studio %VERSION%\Code Snippets\Visual Basic\My Code Snippets*
+    * *%USERPROFILE%\Documents\Visual Studio %VERSION%\Code Snippets\Visual C#\My Code Snippets*
+    * *%USERPROFILE%\Documents\Visual Studio %VERSION%\Code Snippets\Visual Basic\My Code Snippets*
 
-> Note that, you should replace **"*%USERPROFILE%*"** and **"*%VERSION%*"** values in path with yours.
-> eg. *JEPOZDEMIR\Documents\Visual Studio 2022\Templates\ItemTemplates*
+    > Note that, you should replace **"*%USERPROFILE%*"** and **"*%VERSION%*"** values in path with yours.
+    > eg. *JEPOZDEMIR\Documents\Visual Studio 2022\Templates\ItemTemplates*
 
 ## Test your snippet
 
